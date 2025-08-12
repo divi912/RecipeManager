@@ -1,0 +1,11 @@
+name: Newplugin
+version: '1.0'
+main: MCplugin2.newplugin.Newplugin
+api-version: '1.21'
+commands:
+  recipe:
+    description: Opens the recipe management menu.
+    usage: /<command>
+  menu:
+    description: Opens the secret menu.
+    usage: /<command>

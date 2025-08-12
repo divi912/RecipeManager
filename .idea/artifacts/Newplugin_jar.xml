@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Newplugin:jar">
+    <output-path>$USER_HOME$/AppData/Roaming/.feather/player-server/servers/86b02c32-01b5-4c5c-a5c8-113cd3048744/plugins</output-path>
+    <root id="archive" name="Newplugin.jar">
+      <element id="module-output" name="Newplugin" />
+    </root>
+  </artifact>
+</component>
